@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doku.partnerservices",
+      "sha256_cert_fingerprints":
+      ["F8:93:18:AB:4D:EB:45:FF:B5:A5:5E:26:9C:41:5F:63:96:46:1B:81:7C:92:29:BF:03:3A:A7:06:58:10:9D:ED"]
+    }
+  }]
